@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map for library PSI_CHARGE
+#######################################
+
+#######################################
+# KEYWORD1 Classes, datatypes, and C++ keywords
+#######################################
+Pwm	KEYWORD1
+L1L2Sense	KEYWORD1
+CTselfTest	KEYWORD1
+GFCITest	KEYWORD1
+ledLights	KEYWORD1
+ammeter		KEYWORD1
+ 
+#######################################
+# KEYWORD2 Methods and functions
+#######################################
+
+
+setPWM	KEYWORD2
+check	KEYWORD2
+errorLights	KEYWORD2
+setColor	KEYWORD2
+readAmps	KEYWORD2
+
+#######################################
+# LITERAL1 Constants
+#######################################
